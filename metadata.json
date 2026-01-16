@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Amber AI Copilot",
+  "description": "An AI-first student housing experience that transforms the end-to-end journey from discovery to settling in with a single intelligent assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
